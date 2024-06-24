@@ -1,0 +1,9 @@
+C:\Users\rgoro\source\repos\RGR\RGR\obj\Debug\RGR.csproj.AssemblyReference.cache
+C:\Users\rgoro\source\repos\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+C:\Users\rgoro\source\repos\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+C:\Users\rgoro\source\repos\RGR\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+C:\Users\rgoro\source\repos\RGR\RGR\bin\Debug\RGR.exe.config
+C:\Users\rgoro\source\repos\RGR\RGR\bin\Debug\RGR.exe
+C:\Users\rgoro\source\repos\RGR\RGR\bin\Debug\RGR.pdb
+C:\Users\rgoro\source\repos\RGR\RGR\obj\Debug\RGR.exe
+C:\Users\rgoro\source\repos\RGR\RGR\obj\Debug\RGR.pdb
